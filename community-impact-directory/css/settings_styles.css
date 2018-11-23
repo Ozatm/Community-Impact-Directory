@@ -1,0 +1,62 @@
+#directory_default_logo_img {
+	width: 200px;
+	display: block;
+}
+
+#icon_management img {
+	width: 200px;
+	display: block;
+}
+
+#icon_management th {
+	display: block;
+}
+
+#icon_management td {
+	display: block;
+	position: relative;
+}
+
+#icon_management tr {
+	display: inline-block;
+	margin: 50px;
+}
+
+.edit-label {
+	display: block;
+	margin-top: 10px;
+}
+
+.edit_name_button {
+	float: right;
+}
+
+.position_number {
+	width: 3rem;
+}
+
+.parent-category-label {
+	display: block;
+	clear: both;
+	margin-top: 5px;
+}
+
+#action_icon_metabox label, #impact_statement_metabox label, #external_icon_metabox label {
+	margin: 20px 0;
+	display: block;
+}
+
+#action_icon_metabox input, #impact_statement_metabox textarea, #impact_statement_metabox input, #impact_statement_metabox audio, #external_icon_metabox input {
+	display: block;
+	margin: 5px 0;
+	width: 100%;
+}
+
+#impact_statement_metabox textarea {
+	height: 200px;
+}
+
+input#full-listing {
+	display: inline-block;
+	width: auto;
+}
